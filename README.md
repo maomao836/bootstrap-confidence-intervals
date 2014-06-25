@@ -1,4 +1,3 @@
-AICB
-====
+# Bootstrap Confidence Intervals
 
-Análisis de intervalos de confianza bootstrap
+Graphical analysis of various confidence intervals generated using the bootstrap technique.
